@@ -1,0 +1,13 @@
+.box2{
+    background-color:red;
+    color:white;
+    border: solid 5px black;
+    border-radius: 50px;
+    width: 500px;
+    height: 200px;
+    overflow: hidden;
+    text-align: right;
+}
+h1{
+    font-family: cursive;
+}
